@@ -1,0 +1,10 @@
+D:\dinaxy\oopLab1\oopLab1\bin\Debug\oopLab1.exe.config
+D:\dinaxy\oopLab1\oopLab1\bin\Debug\oopLab1.exe
+D:\dinaxy\oopLab1\oopLab1\bin\Debug\oopLab1.pdb
+D:\dinaxy\oopLab1\oopLab1\obj\Debug\oopLab1.csproj.AssemblyReference.cache
+D:\dinaxy\oopLab1\oopLab1\obj\Debug\oopLab1.Form1.resources
+D:\dinaxy\oopLab1\oopLab1\obj\Debug\oopLab1.Properties.Resources.resources
+D:\dinaxy\oopLab1\oopLab1\obj\Debug\oopLab1.csproj.GenerateResource.cache
+D:\dinaxy\oopLab1\oopLab1\obj\Debug\oopLab1.csproj.CoreCompileInputs.cache
+D:\dinaxy\oopLab1\oopLab1\obj\Debug\oopLab1.exe
+D:\dinaxy\oopLab1\oopLab1\obj\Debug\oopLab1.pdb
